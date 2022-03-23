@@ -1,5 +1,5 @@
 #!/bin/bash
 
-echo "Hello World!"
+echo "Hello Github"
 
 echo "vishnu modified this script"
